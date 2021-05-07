@@ -14,11 +14,15 @@ HC Deb 27 October 1986 vol 103 cc77-138. Available from: https://api.parliament.
 
 HL Deb 21 October 1986 vol 481 cc181-90. Available from: https://api.parliament.uk/historic-hansard/lords/1986/oct/21/visas.
 
+*The Joint Council for the Welfare of Immigrants v. Secretary of State for the Home Department* (2020) Availalble from: https://drive.google.com/file/d/12WzweATsBzrjUjuC7bXSH8_YcSyPb1a_/view
+
 Kaba, M. (2021) *We do this 'til we free us: abolitionist organizing and transforming justice.* Chicago: Haymarket Books.
 
 Kowalski, R. (1979) 'Algorithm = logic + control', *Commun. ACM, 22*, 424-436.
 
 Lessig, L. (2006) *Code.* New York: Basic Books.
+
+McDonald, H. (2020) ‘Home Office to scrap “racist algorithm” for UK visa applicants’, *The Guardian*, 4 August. Available at: https://www.theguardian.com/uk-news/2020/aug/04/home-office-to-scrap-racist-algorithm-for-uk-visa-applicants (Accessed: 19 August 2020).
 
 Noble, S. U. (2018) *Algorithms of oppression: how search engines reinforce racism.* New York: New York University Press.
 
