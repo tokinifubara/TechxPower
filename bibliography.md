@@ -1,4 +1,5 @@
 # Bibliography
+All-Party Parliamentary Group Report by the APPG for Africa, the APPG for Diaspora, and Development & Migration and the APPG for Malawi (2019), *Visa Problems for African Visitors to the UK*. Available at: http://royalafricansociety.org/wp-content/uploads/2020/01/APPG-Report-on-Visa-problems-for-African-visitors-to-the-UK_v1.58web.pdf.
 
 Benjamin, R. (2019) *Race after technology: abolitionist tools for the New Jim Code.*
 
@@ -8,11 +9,11 @@ Fubara-Manuel, I. (2020) ‘Biometric Capture: Disrupting the Digital Codificati
 
 Goodfellow, M. (2019) *Hostile environment: how immigrants became scapegoats.* London: Verso
 
-HC Deb 19 June 2019 vol 662  cc316-326. 7 May 2021. Available from: https://hansard.parliament.uk/debates/GetDebateAsText/7B667153-E403-430C-8784-489D90717085.
+HC Deb 19 June 2019 vol 662  cc316-326. 7 May 2021. Available at: https://hansard.parliament.uk/debates/GetDebateAsText/7B667153-E403-430C-8784-489D90717085.
 
-HC Deb 27 October 1986 vol 103 cc77-138. Available from: https://api.parliament.uk/historic-hansard/commons/1986/oct/27/immigration.
+HC Deb 27 October 1986 vol 103 cc77-138. Available at: https://api.parliament.uk/historic-hansard/commons/1986/oct/27/immigration.
 
-HL Deb 21 October 1986 vol 481 cc181-90. Available from: https://api.parliament.uk/historic-hansard/lords/1986/oct/21/visas.
+HL Deb 21 October 1986 vol 481 cc181-90. Available at: https://api.parliament.uk/historic-hansard/lords/1986/oct/21/visas.
 
 *The Joint Council for the Welfare of Immigrants v. Secretary of State for the Home Department* (2020) Availalble from: https://drive.google.com/file/d/12WzweATsBzrjUjuC7bXSH8_YcSyPb1a_/view
 
